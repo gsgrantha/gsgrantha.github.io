@@ -120,8 +120,8 @@ plugins:
   - jekyll-sitemap
 
 seo:
-  title: "Grantha Saha – Data Science Portfolio"
-  description: "BSc Data Science & Engineering student passionate about AI, ML, NLP, Computer Vision, and Data Analytics."
+  title: "GRANTHA SAHA"
+  description: "Data Science & Engineering student passionate about AI, ML, NLP, Computer Vision, and Data Analytics."
 
 sitemap:
   changefreq: "weekly"
