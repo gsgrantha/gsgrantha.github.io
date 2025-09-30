@@ -1,7 +1,5 @@
 # Grantha Saha – Data Science & Engineering Student
 
-[Download CV](Grantha-Saha-FlowCV-Resume-20250928.pdf)
-
 ---
 
 ## 👋 About Me
