@@ -1,59 +1,126 @@
-# ------------------------------
-# GitHub Pages Configuration
-# ------------------------------
-
-# Site settings
+# -------------------------
+# Site Settings
+# -------------------------
 title: "Grantha Saha – Data Science Portfolio"
-description: "Grantha Saha's personal portfolio showcasing Data Science projects, skills, certificates, and contact information."
-url: "https://gsgrantha.github.io" # Replace with your GitHub username if different
-baseurl: "" # Leave empty if deployed at root
-language: "en"
+description: "BSc Data Science & Engineering student passionate about AI, ML, NLP, Computer Vision, and Data Analytics."
+author: "Grantha Saha"
+email: "granthasaha.dse@gmail.com"
+lang: "en"
+timezone: "Asia/Dhaka"
+url: "https://<your-username>.github.io"
+baseurl: ""
 
-# Author info
-author:
-  name: "Grantha Saha"
+# -------------------------
+# Hero Section
+# -------------------------
+hero:
+  title: "Data Science & Engineering Student"
+  intro: "Welcome! I’m Grantha Saha, a BSc student passionate about programming, analytics and building data-driven solutions. I love exploring Machine Learning, NLP, Computer Vision, and Big Data."
+  cv_link: "Grantha-Saha-FlowCV-Resume-20250928.pdf"
+
+# -------------------------
+# About Me
+# -------------------------
+about:
+  description: "I am a Data Science and Engineering BSc student who is very interested in programming, data-driven solutions, and problem-solving. I've developed my skills through coursework, projects, and competitive programming. I enjoy working with C, C++, Python, Java, and SQL. I've studied topics like graph theory, e-learning platforms, and data analytics in addition to earning certifications in Python and Microsoft Office. I am looking forward to applying my skills in AI, machine learning, NLP, computer vision, and big data through research, internships, and practical projects."
+
+# -------------------------
+# Profile
+# -------------------------
+profile:
+  birthday: "9 June 2006"
+  nationality: "Bangladeshi"
+  status: "Single"
+  description: "I enjoy solving problems using clean algorithms and clear data storytelling. Actively seeking opportunities in AI/ML research and data analysis."
+
+# -------------------------
+# Education
+# -------------------------
+education:
+  - institution: "University of Frontier Technology, Bangladesh"
+    degree: "BSc (Engg.) in Data Science & Engineering"
+    period: "2024 – Present"
+    cgpa: "3.6 / 4.0"
+
+# -------------------------
+# Experience
+# -------------------------
+experience:
+  - title: "Freelance Tech Support & MS Office Tutor"
+    period: "2024 – Present"
+    description: "Trained students in MS Word, Excel, PowerPoint, and basic computer literacy."
+  - title: "Campus Ambassador – UFTB Student Affairs"
+    period: "2025 – Present"
+    description: "Coordinated student engagement campaigns and tech competitions."
+
+# -------------------------
+# Skills
+# -------------------------
+skills:
+  programming:
+    - "C"
+    - "C++"
+    - "Java"
+    - "Python"
+    - "SQL"
+  tools:
+    - "Power BI"
+    - "Pandas"
+    - "Matplotlib"
+  concepts:
+    - "Machine Learning (basic)"
+    - "Data Storytelling"
+    - "Teaching & Tutoring"
+
+# -------------------------
+# Projects
+# -------------------------
+projects:
+  - title: "Bricks'N Ball"
+    year: 2024
+    description: "Classic arcade game built with Scratch."
+    link: "https://scratch.mit.edu/projects/1108653845"
+  - title: "Coffee Shop Sales Report"
+    year: 2025
+    description: "Excel-based analysis to find trends and best-selling items."
+    link: ""
+
+# -------------------------
+# Certificates
+# -------------------------
+certificates:
+  - title: "Microsoft Office Mastery"
+    link: "https://www.udemy.com/certificate/UC-b52b53b3-ee0f-4192-ad3a-7fa35ace7b2d/"
+  - title: "NumPy, SciPy, Matplotlib & Pandas"
+    link: "https://www.udemy.com/certificate/UC-d647bd45-62fc-468d-83a5-d57cfa2c91c9/"
+  - title: "Complete C & C++ Programming"
+    link: "https://www.udemy.com/certificate/UC-86cdee9a-3376-44ef-b43a-30b0b5346e7a/"
+  - title: "Basics of Python (UniAthena)"
+    link: "https://docs.uniathena.com/prod/course/certificate/323_1741292097_certificate.jpg"
+  - title: "Python Essentials (Cisco)"
+    link: "https://www.netacad.com/certificates?issuanceId=a80482d9-c79b-4381-8791-7bf355da78c3"
+  - title: "Power BI for Beginners"
+    link: "https://simpli-web.app.link/e/Tc4tfm1ACVb"
+
+# -------------------------
+# Contact
+# -------------------------
+contact:
   email: "granthasaha.dse@gmail.com"
-  github: "gsgrantha"
+  phone: "01800090078"
+  linkedin: "https://www.linkedin.com/in/granthasaha/"
+  github: "https://github.com/gsgrantha"
   location: "Dhaka, Bangladesh"
 
-# Sections (to reflect your HTML nav & content)
-sections:
-  - hero
-  - about
-  - profile
-  - education
-  - experience
-  - skills
-  - projects
-  - certificates
-  - contact
-
-# Social links for footer or SEO
-social_links:
-  github: "https://github.com/gsgrantha"
-  linkedin: "https://www.linkedin.com/in/granthasaha/"
-  email: "mailto:granthasaha.dse@gmail.com"
-  phone: "tel:01800090078"
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
-permalink: /:title/
-
-# GitHub Pages
-github:
-  is_project_page: true
-
-# Optional plugins (for SEO or feed if needed)
+# -------------------------
+# SEO & Sitemap
+# -------------------------
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
-
-# Exclude unnecessary files from the build
-exclude:
-  - README.md
-  - node_modules
-  - vendor
-
-# Theme (optional; your site uses custom HTML/CSS)
-theme: minima
+  - jekyll-sitemap
+seo:
+  title: "Grantha Saha – Data Science Portfolio"
+  description: "BSc Data Science & Engineering student passionate about AI, ML, NLP, Computer Vision, and Data Analytics."
+sitemap:
+  changefreq: "weekly"
+  priority: 0.7
