@@ -1,103 +1,73 @@
-# gsgrantha.github.io
-# 🌐 Grantha Saha — Data Science & Engineering Portfolio
+# Grantha Saha – Data Science & Engineering Student
 
-[![Status](https://img.shields.io/badge/status-active-success)](https://github.com/your-username)
-[![Student](https://img.shields.io/badge/role-Student-blue)]()
-[![Location](https://img.shields.io/badge/location-Dhaka%2C%20Bangladesh-orange)]()
-[![Email](https://img.shields.io/badge/email-granthasaha.dse%40gmail.com-lightgrey)](mailto:granthasaha.dse@gmail.com)
+[Download CV](Grantha-Saha-FlowCV-Resume-20250928.pdf)
 
 ---
 
-## Overview
-
-I’m **Grantha Saha**, a BSc student in **Data Science & Engineering** at **University of Frontier Technology, Bangladesh (UFTB)**.  
-I build practical data solutions and enjoy working on ML, data analysis, and programming problems. My work spans academic projects, small data-analysis tasks, and teaching/tutoring.
-
----
-
-## ✅ Quick Profile (Professional)
-
-- **Degree:** BSc (Engg.) in Data Science & Engineering — UFTB  
-- **CGPA:** 3.6 / 4.0  
-- **Location:** Dhaka, Bangladesh  
-- **Contact:** granthasaha.dse@gmail.com | +8801800090078  
-- **LinkedIn:** https://www.linkedin.com/in/granthasaha
+## 👋 About Me
+I am a **BSc student in Data Science & Engineering** passionate about programming, analytics, and building data-driven solutions.  
+I enjoy exploring **Machine Learning, NLP, Computer Vision, and Big Data**, and actively seek opportunities in **AI/ML research, data analysis, and software development**.
 
 ---
 
-## 🧭 Career Objective (Short & Professional)
-
-Aspiring data scientist seeking internship and research opportunities in **Machine Learning, NLP, Computer Vision, and Big Data**. Aim to apply strong programming foundations and data-analysis skills to solve real-world problems and contribute in cross-functional teams.
-
----
-
-## 🛠 Technical Skills
-
-**Languages:** C · C++ · Python · Java · SQL · HTML  
-**Data & ML:** Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn (familiar)  
-**BI & Viz:** Power BI · Tableau · Excel (advanced)  
-**Other:** Git · Technical writing · Classroom & peer teaching
+## 📝 Profile
+- **Birthday:** 9 June 2006  
+- **Nationality:** Bangladeshi  
+- **Status:** Single  
+- Passionate about solving problems with clean algorithms and clear data storytelling.  
 
 ---
 
-## 💼 Experience & Roles
+## 🎓 Education
+**University of Frontier Technology, Bangladesh**  
+*BSc (Engg.) in Data Science & Engineering (2024 – Present)*  
+CGPA: 3.6 / 4.0  
 
+---
+
+## 💼 Experience
 - **Freelance Tech Support & MS Office Tutor** (2024 – Present)  
-  Trained students & community members on Word, Excel, and PowerPoint; created teaching materials and hands-on exercises.
+  Trained students in MS Word, Excel, PowerPoint, and basic computer literacy.
 
-- **Campus Ambassador — UFTB Student Affairs (Volunteer)** (2025 – Present)  
-  Represented the Data Science department in outreach events and coordinated student engagement activities.
-
-- **Volunteer Member — Badhon (Blood Donation Network)** (Present)  
-  Assisted in organizing blood donation events and awareness campaigns.
+- **Campus Ambassador – UFTB Student Affairs** (2025 – Present)  
+  Coordinated student engagement campaigns and tech competitions.
 
 ---
 
-## 📚 Education
-
-**University of Frontier Technology, Bangladesh (UFTB)**  
-_BSc (Engg.) in Data Science & Engineering_ — 2024–Present  
-Relevant coursework: Programming, Statistics, Machine Learning, Data Analysis
-
----
-
-## 🔬 Projects (Selected)
-
-- **Bricks'N Ball (Scratch)** — Game developer (2024)  
-  Built an arcade-style game to practice event-driven logic, collision detection and loops.
-
-- **Coffee Shop Sales Report (Excel)** — Data analyst (2025)  
-  Cleaned transaction data, identified trends/peak hours, and produced visual reports to guide business decisions.
-
-- **2D Array Operations in C** — Academic implementation  
-  Matrix addition, multiplication, transpose — used for algorithmic practice and lab assignments.
+## 🛠️ Skills
+- **Programming Languages:** C, C++, Java, Python  
+- **Data & Analytics:** SQL, Pandas, Matplotlib, Power BI  
+- **Machine Learning:** Basic ML models, Data Storytelling  
+- **Other Skills:** Teaching & Tutoring, Problem Solving  
 
 ---
 
-## 🏅 Certifications (Selected)
+## 🔧 Projects
+- **Bricks'N Ball (2024)** – Classic arcade game built with Scratch  
+  [Open on Scratch](https://scratch.mit.edu/projects/1108653845)  
 
-- Microsoft Office Mastery (Word, Excel, PowerPoint) — Udemy  
-- NumPy, SciPy, Matplotlib & Pandas A-Z — Udemy  
-- Python Essentials — Cisco Networking Academy  
-- The Complete C & C++ Programming Course — Udemy  
-- Power BI for Beginners — Simplilearn
-
-> Full certificate links and additional certificates are available on request or in my CV.
+- **Coffee Shop Sales Report (2025)** – Excel-based analysis to identify trends and best-selling items  
 
 ---
 
-## 🌐 Languages
-
-- **Bangla:** Native / Bilingual  
-- **English:** Fluent  
-- **Hindi:** Basic
-
----
-
-## 🎯 Interests
-
-Coding personal projects · Tech blogging · Gardening · Photography · Podcasts · Traveling
+## 📜 Certificates & Courses
+- [Microsoft Office Mastery](https://www.udemy.com/certificate/UC-b52b53b3-ee0f-4192-ad3a-7fa35ace7b2d/)  
+- [NumPy, SciPy, Matplotlib & Pandas](https://www.udemy.com/certificate/UC-d647bd45-62fc-468d-83a5-d57cfa2c91c9/)  
+- [Complete C & C++ Programming](https://www.udemy.com/certificate/UC-86cdee9a-3376-44ef-b43a-30b0b5346e7a/)  
+- [Basics of Python (UniAthena)](https://docs.uniathena.com/prod/course/certificate/323_1741292097_certificate.jpg)  
+- [Python Essentials (Cisco)](https://www.netacad.com/certificates?issuanceId=a80482d9-c79b-4381-8791-7bf355da78c3)  
+- [Power BI for Beginners](https://simpli-web.app.link/e/Tc4tfm1ACVb)  
 
 ---
 
+## 📫 Contact
+- **Email:** [granthasaha.dse@gmail.com](mailto:granthasaha.dse@gmail.com)  
+- **Phone:** 01800090078  
 
+**Reach Me:**  
+- [LinkedIn](https://www.linkedin.com/in/granthasaha/)  
+- [GitHub](https://github.com/gsgrantha)  
+
+---
+
+*© 2025 Grantha Saha • Dhaka, Bangladesh*
