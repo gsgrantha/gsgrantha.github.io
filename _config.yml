@@ -7,7 +7,7 @@ author: "Grantha Saha"
 email: "granthasaha.dse@gmail.com"
 lang: "en"
 timezone: "Asia/Dhaka"
-url: "https://<gsgrantha>.github.io"
+url: "https://gsgrantha.github.io"
 baseurl: ""
 
 # -------------------------
@@ -83,7 +83,7 @@ projects:
   - title: "Coffee Shop Sales Report"
     year: 2025
     description: "Excel-based analysis to find trends and best-selling items."
-    link: ""
+    link: null
 
 # -------------------------
 # Certificates
@@ -118,9 +118,11 @@ contact:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
 seo:
   title: "Grantha Saha – Data Science Portfolio"
   description: "BSc Data Science & Engineering student passionate about AI, ML, NLP, Computer Vision, and Data Analytics."
+
 sitemap:
   changefreq: "weekly"
   priority: 0.7
