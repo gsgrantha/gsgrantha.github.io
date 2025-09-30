@@ -1,0 +1,197 @@
+html:
+  doctype: html
+  lang: en
+  head:
+    meta:
+      - charset: "UTF-8"
+      - name: "viewport"
+        content: "width=device-width, initial-scale=1"
+    title: "Grantha Saha – Data Science Portfolio"
+    links:
+      - rel: "stylesheet"
+        href: "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap"
+      - rel: "stylesheet"
+        href: "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    style: |
+      :root{
+        --bg1:#0a0a0a;
+        --bg2:#111827;
+        --accent1:#0072ff;
+        --accent2:#ff6f00;
+        --text:#e0e0e0;
+        --muted:#a0a0a0;
+      }
+      *{box-sizing:border-box;scroll-behavior:smooth;}
+      body{
+        margin:0;
+        font-family:'Montserrat',sans-serif;
+        background:linear-gradient(180deg,var(--bg1),var(--bg2));
+        color:var(--text);
+        line-height:1.7;
+      }
+
+      /* Floating background icons */
+      .bg-icons{
+        position:fixed;
+        top:0;left:0;width:100%;height:100%;
+        overflow:hidden;z-index:0;
+      }
+      .bg-icons i{
+        position:absolute;
+        font-size:60px;
+        color:rgba(255,255,255,0.05);
+        animation:float 18s linear infinite;
+      }
+      @keyframes float{
+        0%{transform:translateY(110vh) rotate(0deg);}
+        100%{transform:translateY(-20vh) rotate(360deg);}
+      }
+      .bg-icons i:nth-child(1){left:5%;animation-delay:0s;}
+      .bg-icons i:nth-child(2){left:15%;animation-delay:1s;}
+      .bg-icons i:nth-child(3){left:25%;animation-delay:2s;}
+      .bg-icons i:nth-child(4){left:35%;animation-delay:3s;}
+      .bg-icons i:nth-child(5){left:45%;animation-delay:4s;}
+      .bg-icons i:nth-child(6){left:55%;animation-delay:5s;}
+      .bg-icons i:nth-child(7){left:65%;animation-delay:6s;}
+      .bg-icons i:nth-child(8){left:75%;animation-delay:7s;}
+      .bg-icons i:nth-child(9){left:85%;animation-delay:8s;}
+      .bg-icons i:nth-child(10){left:95%;animation-delay:9s;}
+      .bg-icons i:nth-child(11){left:10%;animation-delay:10s;}
+      .bg-icons i:nth-child(12){left:20%;animation-delay:11s;}
+      .bg-icons i:nth-child(13){left:30%;animation-delay:12s;}
+      .bg-icons i:nth-child(14){left:40%;animation-delay:13s;}
+      .bg-icons i:nth-child(15){left:50%;animation-delay:14s;}
+      .bg-icons i:nth-child(16){left:60%;animation-delay:15s;}
+      .bg-icons i:nth-child(17){left:70%;animation-delay:16s;}
+      .bg-icons i:nth-child(18){left:80%;animation-delay:17s;}
+      .bg-icons i:nth-child(19){left:90%;animation-delay:18s;}
+      .bg-icons i:nth-child(20){left:25%;animation-delay:19s;}
+      .bg-icons i:nth-child(21){left:35%;animation-delay:20s;}
+      .bg-icons i:nth-child(22){left:45%;animation-delay:21s;}
+      .bg-icons i:nth-child(23){left:55%;animation-delay:22s;}
+      .bg-icons i:nth-child(24){left:65%;animation-delay:23s;}
+      .bg-icons i:nth-child(25){left:75%;animation-delay:24s;}
+      .bg-icons i:nth-child(26){left:85%;animation-delay:25s;}
+
+      header{
+        text-align:center;
+        padding:100px 20px;
+        position:relative;
+        z-index:1;
+      }
+      header h1{
+        font-size:3rem;
+        font-weight:800;
+        color:var(--accent1);
+        margin:0;
+      }
+      header h2{
+        font-size:1.5rem;
+        font-weight:600;
+        margin-top:10px;
+        color:var(--accent2);
+      }
+      header p{
+        margin-top:15px;
+        color:var(--muted);
+      }
+      section{
+        padding:80px 20px;
+        max-width:1000px;
+        margin:auto;
+        position:relative;
+        z-index:1;
+      }
+      section h2{
+        font-size:2rem;
+        font-weight:800;
+        text-align:center;
+        margin-bottom:40px;
+        color:var(--accent1);
+      }
+      .about,.projects,.contact{background:rgba(255,255,255,0.02);padding:40px;border-radius:12px;box-shadow:0 0 10px rgba(0,0,0,0.4);}
+      .projects .card{background:rgba(255,255,255,0.05);padding:20px;margin:20px;border-radius:10px;transition:transform .3s;}
+      .projects .card:hover{transform:translateY(-10px);}
+      footer{
+        text-align:center;
+        padding:30px 20px;
+        background:rgba(255,255,255,0.05);
+        color:var(--muted);
+        position:relative;
+        z-index:1;
+      }
+      .social-icons a{
+        margin:0 10px;
+        color:var(--text);
+        font-size:1.5rem;
+        transition:color .3s;
+      }
+      .social-icons a:hover{color:var(--accent1);}
+  body:
+    elements:
+      - div:
+          class: "bg-icons"
+          icons:
+            - i: "fa-solid fa-database"
+            - i: "fa-solid fa-chart-line"
+            - i: "fa-solid fa-brain"
+            - i: "fa-solid fa-code"
+            - i: "fa-solid fa-robot"
+            - i: "fa-solid fa-laptop-code"
+            - i: "fa-solid fa-diagram-project"
+            - i: "fa-solid fa-chart-pie"
+            - i: "fa-solid fa-network-wired"
+            - i: "fa-solid fa-cloud"
+            - i: "fa-solid fa-server"
+            - i: "fa-solid fa-microchip"
+            - i: "fa-solid fa-bolt"
+            - i: "fa-solid fa-dna"
+            - i: "fa-solid fa-infinity"
+            - i: "fa-solid fa-cubes"
+            - i: "fa-solid fa-brain"
+            - i: "fa-solid fa-database"
+            - i: "fa-solid fa-chart-column"
+            - i: "fa-solid fa-layer-group"
+            - i: "fa-solid fa-code-branch"
+            - i: "fa-solid fa-wifi"
+            - i: "fa-solid fa-gear"
+            - i: "fa-solid fa-circle-nodes"
+            - i: "fa-solid fa-magnifying-glass-chart"
+            - i: "fa-solid fa-flask"
+      - header:
+          h1: "Grantha Saha"
+          h2: "Data Science Enthusiast"
+          p: "Exploring data, algorithms, and insights to solve real-world problems."
+      - section:
+          id: "about"
+          h2: "About Me"
+          content: |
+            I’m a BSc student passionate about **Data Science, Machine Learning, and AI**.  
+            Skilled in C programming, Python, data visualization, and statistical analysis.  
+            I enjoy building projects that combine data with creativity.
+      - section:
+          id: "projects"
+          h2: "Projects"
+          cards:
+            - title: "Student Performance Prediction"
+              description: "Machine learning model to predict academic outcomes using socio-economic factors."
+            - title: "Portfolio Website"
+              description: "Designed and built a responsive personal portfolio to showcase my journey in data science."
+            - title: "2D Array Operations in C"
+              description: "Implemented mathematical operations (addition, multiplication, transpose) in C for academic practice."
+      - section:
+          id: "contact"
+          h2: "Reach Me"
+          content: "Feel free to connect with me on the platforms below."
+          social:
+            - platform: "LinkedIn"
+              icon: "fa-brands fa-linkedin"
+              url: "https://linkedin.com/in/your-profile"
+            - platform: "GitHub"
+              icon: "fa-brands fa-github"
+              url: "https://github.com/your-username"
+            - platform: "Email"
+              icon: "fa-solid fa-envelope"
+              url: "mailto:your-email@example.com"
+      - footer:
+          text: "© 2025 Grantha Saha. All Rights Reserved."
