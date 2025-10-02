@@ -16,7 +16,7 @@ baseurl: ""
 hero:
   title: "Data Science & Engineering Student"
   intro: "Welcome! I’m Grantha Saha, a BSc student passionate about programming, analytics and building data-driven solutions. I love exploring Machine Learning, NLP, Computer Vision, and Big Data."
-  cv_link: "Grantha-Saha-FlowCV-Resume-20250928"
+  cv_link: "Grantha-Saha-FlowCV-Resume-20250928.pdf"
 
 # -------------------------
 # About Me
@@ -63,14 +63,19 @@ skills:
     - "Java"
     - "Python"
     - "SQL"
+    - "HTML"
   tools:
-    - "Power BI"
     - "Pandas"
+    - "NumPy"
     - "Matplotlib"
+    - "Seaborn"
+    - "Power BI"
+    - "Tableau"
   concepts:
     - "Machine Learning (basic)"
     - "Data Storytelling"
     - "Teaching & Tutoring"
+    - "Event Organizing"
 
 # -------------------------
 # Projects
@@ -103,6 +108,28 @@ certificates:
     link: "https://simpli-web.app.link/e/Tc4tfm1ACVb"
 
 # -------------------------
+# Languages
+# -------------------------
+languages:
+  - name: "Bangla"
+    level: "Native"
+  - name: "English"
+    level: "Fluent"
+  - name: "Hindi"
+    level: "Basic"
+
+# -------------------------
+# Volunteering & Organisations
+# -------------------------
+volunteering:
+  - organisation: "UFTB Student Affairs"
+    role: "Campus Engagement"
+    description: "Organized events, supported student services, promoted engagement."
+  - organisation: "Badhon – Voluntary Blood Donation Network"
+    role: "General Member"
+    description: "Helped organize blood donation events and awareness campaigns."
+
+# -------------------------
 # Contact
 # -------------------------
 contact:
@@ -110,6 +137,7 @@ contact:
   phone: "01800090078"
   linkedin: "https://www.linkedin.com/in/granthasaha/"
   github: "https://github.com/gsgrantha"
+  portfolio: "https://gsgrantha.github.io/"
   location: "Dhaka, Bangladesh"
 
 # -------------------------
@@ -120,7 +148,7 @@ plugins:
   - jekyll-sitemap
 
 seo:
-  title: "GRANTHA SAHA"
+  title: "Grantha Saha"
   description: "Data Science & Engineering student passionate about AI, ML, NLP, Computer Vision, and Data Analytics."
 
 sitemap:
