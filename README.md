@@ -34,10 +34,10 @@ CGPA: 3.6 / 4.0
 ---
 
 ## 🛠️ Skills
-- **Programming Languages:** C, C++, Java, Python  
-- **Data & Analytics:** SQL, Pandas, Matplotlib, Power BI  
+- **Programming Languages:** C, C++, Java, Python, HTML  
+- **Data & Analytics:** SQL, Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau  
 - **Machine Learning:** Basic ML models, Data Storytelling  
-- **Other Skills:** Teaching & Tutoring, Problem Solving  
+- **Other Skills:** Teaching & Tutoring, Problem Solving, Event Organizing  
 
 ---
 
@@ -59,11 +59,25 @@ CGPA: 3.6 / 4.0
 
 ---
 
+## 🌍 Languages
+- Bangla – Native  
+- English – Fluent  
+- Hindi – Basic  
+
+---
+
+## 🤝 Volunteering & Organisations
+- **UFTB Student Affairs** – Campus event organizing & student engagement  
+- **Badhon – Voluntary Blood Donation Network** – General Member  
+
+---
+
 ## 📫 Contact
 - **Email:** [granthasaha.dse@gmail.com](mailto:granthasaha.dse@gmail.com)  
 - **Phone:** 01800090078  
 
 **Reach Me:**  
+- [Portfolio](https://gsgrantha.github.io/)  
 - [LinkedIn](https://www.linkedin.com/in/granthasaha/)  
 - [GitHub](https://github.com/gsgrantha)  
 
